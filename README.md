@@ -36,7 +36,7 @@ Result: SSH refused, HTTP 403 Forbidden
 ```bash
 ping -c 4 8.8.8.8
 traceroute 8.8.8.8
-'''
+```
 Result:75% packet loss, First hop: 10.0.2.2
 
 ## Network Map
